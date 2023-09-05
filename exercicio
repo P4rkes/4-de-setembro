@@ -1,0 +1,122 @@
+// exercicio 1
+
+// a) 10 / 50
+// b) 10 / 50
+
+// exercicio 2
+
+// a) voce digita um texto e o computador procura se tem uma palavra especifica nele
+// b) false
+
+//exercicio 3
+
+// 1 
+
+// a)
+
+// function informacoes() {
+//     console.log("Eu sou Parkes, tenho 17 anos, moro em São Leopoldo e sou estudante")
+
+// }
+
+// informacoes()
+
+// b)
+
+// function informacoes(nome, idade, cidade, estudante) {
+//      console.log("Meu nome é " + [nome] + ", tenho " + [idade] + " anos, moro em " + [cidade] + " e sou um " + [estudante]);
+// }
+
+//    let  nome = prompt("qual seu nome");
+//    let  idade = prompt("qual sua idade");
+//    let  cidade = prompt("qual sua cidade");
+//    let  estudante = prompt("voce é trabalhador ou estudante");
+
+//    informacoes(nome, idade, cidade, estudante);
+
+//
+
+// exercicio 4
+
+// function soma(numeroUm, numeroDois) {
+//          const somas = numeroUm + numeroDois
+//          return somas
+//      } 
+//     let numeroUm = Number(prompt("fala um numero ai"));
+//     let numeroDois = Number(prompt("fala outro ai"));
+
+//     console.log(soma(numeroUm, numeroDois));
+
+//
+
+// b)
+
+// function maiorMenor(numeroUm, numeroDois) {
+//     let numeros = numeroUm >= numeroDois
+//     return numeros
+// }
+
+// let numeroUm = Number(prompt("defina um numero"));
+// let numeroDois = Number(prompt("defina outro numero"))
+
+// console.log(maiorMenor(numeroUm, numeroDois))
+
+//
+
+// c)
+
+
+/* function foda(numeroUm) {
+ return Boolean(numeroUm % 2 === 0)
+}
+
+let numeroUm = Number(prompt("fala um numero"))
+console.log(foda(numeroUm)) */
+
+//
+
+// d) 
+
+//  function mensagem(a) {
+//      return a.length + a.toUpperCase();
+//  }
+
+//  let mensagemDois = prompt("fala uma coisa");
+//  console.log(mensagem(mensagemDois))
+
+// 
+
+// exercicio 3
+
+// let primeiro = Number(prompt("Digite um numero"));
+// let segundo = Number(prompt("Digite outro numero"));
+
+
+// function somas(primeiro, segundo) {
+//     const soma = primeiro + segundo
+//     return soma
+// }
+
+
+// function subtracoes(primeiro, segundo) {
+//     const subtracao = primeiro - segundo
+//     return subtracao
+// }
+
+
+// function multiplicacoes(primeiro, segundo) {
+//     const multiplicacao = primeiro * segundo
+//     return multiplicacao
+// }
+
+
+// function divisoes(primeiro, segundo) {
+//     const divisao = primeiro / segundo
+//     return divisao
+// }
+
+
+// console.log(somas(primeiro, segundo));
+// console.log(subtracoes(primeiro, segundo));
+// console.log(multiplicacoes(primeiro, segundo));
+// console.log(divisoes(primeiro, segundo));
